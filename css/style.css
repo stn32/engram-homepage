@@ -333,9 +333,9 @@ input, textarea, button, select {
     display: none;
     position: fixed;
     top: 2rem;
-    right: 2rem;
+    right: 0;
     bottom: 2rem;
-    left: 2rem;
+    left: 0;
     margin: auto;
     padding: 5rem 3rem;
     width: 100%;
